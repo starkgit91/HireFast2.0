@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # hirefast
 =======
 
@@ -75,7 +75,7 @@ npm install
 Create `.env` file:
 
 ```
-MONGO_URI=mongodb+srv://<username>:<password>@cluster.mongodb.net/hirefast
+MONGO_URI=mongodb+srv://<username>:<password>@clusterX.mongodb.net/hirefast
 ```
 
 Seed data:
@@ -157,7 +157,7 @@ Opens at `http://localhost:3000`
 ## 🧪 Example `.env`
 
 ```
-MONGO_URI=mongodb+srv://prashant:secretpass@cluster0.mongodb.net/hirefast
+MONGO_URI=mongodb+srv://<username>:<passkey>@clusterX.mongodb.net/hirefast
 ```
 
 ---
