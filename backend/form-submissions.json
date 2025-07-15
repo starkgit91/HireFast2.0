@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Jane Doe",
+    "email": "jane@example.com",
+    "education": "B.Tech in CS",
+    "experience": 3,
+    "skills": ["React", "Node", "MongoDB"],
+    "location": "Bangalore",
+    "resume": "jane_resume.pdf",
+    "diversityTags": ["female"]
+  },
+  {
+    "name": "John Smith",
+    "email": "john@example.com",
+    "education": "B.E in IT",
+    "experience": 5,
+    "skills": ["Java", "Spring", "Docker"],
+    "location": "Mumbai",
+    "resume": "john_resume.pdf",
+    "diversityTags": []
+  }
+]
